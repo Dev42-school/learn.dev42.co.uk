@@ -32,6 +32,16 @@ All about storage
 
 All about Coding
 
+## [Inputs](./inputs)
+
+All about Coding
+
+
+## [Outputs](./outputs)
+
+All about Coding
+
+
 ## Special Thanks To Contributors That Make This Possible!
 
 <a href="https://github.com/TheDev42/learn.dev42.co.uk/graphs/contributors">
