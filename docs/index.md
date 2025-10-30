@@ -34,12 +34,12 @@ All about Coding
 
 ## [Inputs](./inputs)
 
-All about Coding
+All about the Inputs
 
 
 ## [Outputs](./outputs)
 
-All about Coding
+All about the Outputs
 
 
 ## Special Thanks To Contributors That Make This Possible!
